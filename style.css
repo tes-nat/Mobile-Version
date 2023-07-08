@@ -12,17 +12,6 @@ body {
   background-color: hsl(0deg 3% 71% / 10%);
 }
 
-.Header {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  height: 58px;
-  align-items: center;
-  background-color: #ffff;
-  padding-top: 20px;
-  padding-left: 18px;
-}
-
 .mylogo {
   width: 76px;
   height: 20px;
@@ -99,13 +88,7 @@ body {
   margin-right: 80px;
 }
 
-/* social media icons----------------------------------------------------------------------- */
-.Workssection1 {
-  border-radius: 8px;
-}
-
-/* Card Works */
-.cardBack {
+.cardback {
   margin: 52px auto auto 24px;
   box-sizing: border-box;
   display: flex;
@@ -119,7 +102,7 @@ body {
   border-radius: 16px;
 }
 
-.cardBack01 {
+.cardback01 {
   background-image: url('./image/Mobile-Main_3.png');
   background-repeat: no-repeat;
   box-sizing: border-box;
@@ -133,7 +116,7 @@ body {
   border-bottom-left-radius: 50px;
 }
 
-.cardBack2 {
+.cardback2 {
   margin-top: 24px;
   box-sizing: border-box;
   display: flex;
@@ -207,7 +190,7 @@ body {
   gap: 30px;
 }
 
-.Program-skilhtml {
+.program-skill-html {
   width: 45px;
   height: 24px;
   font-family: Poppins, sans-serif;
@@ -247,11 +230,6 @@ body {
   flex-direction: row;
   align-items: center;
   padding: 4px 12px;
-}
-
-.Prog-Lang.works {
-  display: flexbox;
-  flex-direction: column;
 }
 
 .tonic {
@@ -400,7 +378,7 @@ body {
   list-style: none;
 }
 
-.BackendDev {
+.back-dev {
   width: 88px;
   height: 16px;
   font-family: Poppins, sans-serif;
@@ -510,17 +488,11 @@ body {
   background: rgb(78 145 231);
 }
 
-.Program-skil {
-  display: flex;
-  flex-direction: column;
-  gap: 5px;
-}
-
 .aboutsection {
   margin-left: 24px;
 }
 
-.Programs {
+.wood {
   width: 100px;
   height: 66.72px;
   background: #f7f7f9;
@@ -557,7 +529,7 @@ body {
   color: #172b4d;
 }
 
-.Programs-lang {
+.make {
   width: 100px;
   height: 66.72px;
   list-style: none;
@@ -576,9 +548,9 @@ body {
 }
 
 .line {
-    margin-top: 20gipx;
-    border-radius: none;
-    background-image: "./image/Light.jpg";
-    padding-top: 80px;
-    padding-right:30px;
+  margin-top: 20px;
+  border-radius: none;
+  background-image: "./image/Light.jpg";
+  padding-top: 80px;
+  padding-right:30px;
 }
