@@ -4,7 +4,7 @@
 
   <br/>
 
-  <h3><b>Mobile Version Project</b></h3>
+  <h3><b>Portfolio: finish mobile version</b></h3>
 
 </div>
 
@@ -32,12 +32,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Mobile-Feature] <a name="about-project"></a>
-
 > This project was part of Microverse week one tasks.
 It gives the student an opportunity to learn and do with HTML, CSS, and Github.
 
-**[Mobile-Feature]** is a...
+**[finish mobile version]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 - HTML
