@@ -35,8 +35,8 @@
 > This project was part of Microverse week one tasks.
 It gives the student an opportunity to learn and do with HTML, CSS, and Github.
 
-**[finish mobile version]** is a...
-
+**[finish mobile version]** 
+is a milestone in building portfolio website
 ## 🛠 Built With <a name="built-with"></a>
 - HTML
 - CSS
