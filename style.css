@@ -370,8 +370,8 @@ body {
   line-height: 24px;
   color: #344563;
 }
-.about {
 
+.about {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -532,7 +532,6 @@ body {
 }
 
 .connectmywork {
- 
   font-weight: 500;
   font-size: 16px;
   color: #7f8cff;
@@ -541,7 +540,6 @@ body {
   line-height: 24px;
 }
 
-/* social media icons */
 .social-icons-mywork {
   margin-right: 50px;
   margin-top: 12px;
